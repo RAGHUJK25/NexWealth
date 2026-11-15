@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <defs>
+    <linearGradient id="card" x1="143" y1="76" x2="525" y2="348" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#d8e6ff" stop-opacity=".06"/>
+    </linearGradient>
+    <linearGradient id="growth" x1="210" y1="260" x2="501" y2="145" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55e4c4"/>
+      <stop offset=".55" stop-color="#68cbed"/>
+      <stop offset="1" stop-color="#b5a6ff"/>
+    </linearGradient>
+    <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffe29a"/>
+      <stop offset="1" stop-color="#ff9d67"/>
+    </linearGradient>
+    <filter id="shadow" x="92" y="34" width="484" height="363" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <circle cx="480" cy="210" r="156" fill="#7287ff" fill-opacity=".09"/>
+  <circle cx="140" cy="310" r="94" fill="#44dbc0" fill-opacity=".08"/>
+  <path d="M66 324c90-54 144-8 209-53 72-50 97-144 187-162 47-10 91 2 130-24" stroke="#fff" stroke-opacity=".13" stroke-width="2" stroke-dasharray="5 10"/>
+  <rect x="123" y="58" width="414" height="304" rx="25" fill="#030b22" fill-opacity=".28" filter="url(#shadow)"/>
+  <rect x="130" y="54" width="414" height="304" rx="25" fill="url(#card)" stroke="#fff" stroke-opacity=".26" stroke-width="1.5"/>
+  <circle cx="158" cy="83" r="5" fill="#62e0c3"/>
+  <rect x="174" y="79" width="86" height="8" rx="4" fill="#fff" fill-opacity=".68"/>
+  <rect x="464" y="73" width="54" height="22" rx="11" fill="#51d9bc" fill-opacity=".18" stroke="#64e3c9" stroke-opacity=".46"/>
+  <circle cx="476" cy="84" r="3" fill="#74eed1"/>
+  <rect x="486" y="81" width="21" height="5" rx="2.5" fill="#fff" fill-opacity=".67"/>
+  <rect x="151" y="112" width="372" height="220" rx="15" fill="#111c3c" fill-opacity=".35" stroke="#fff" stroke-opacity=".1"/>
+  <rect x="171" y="132" width="78" height="7" rx="3.5" fill="#fff" fill-opacity=".68"/>
+  <rect x="171" y="146" width="48" height="5" rx="2.5" fill="#fff" fill-opacity=".28"/>
+  <path d="M175 279h322M175 241h322M175 203h322M175 165h322" stroke="#fff" stroke-opacity=".1"/>
+  <path d="M205 261v18M245 244v35M285 229v50M325 214v65M365 191v88M405 178v101M445 159v120" stroke="#8fa2ff" stroke-opacity=".28" stroke-width="12" stroke-linecap="round"/>
+  <path d="m190 250 65-42 51 18 61-53 54 12 77-69" stroke="url(#growth)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="190" cy="250" r="5" fill="#55e4c4"/>
+  <circle cx="255" cy="208" r="5" fill="#62dacc"/>
+  <circle cx="306" cy="226" r="5" fill="#70d1db"/>
+  <circle cx="367" cy="173" r="5" fill="#83c5ed"/>
+  <circle cx="421" cy="185" r="5" fill="#9bb6f6"/>
+  <circle cx="498" cy="116" r="5" fill="#b5a6ff"/>
+  <rect x="57" y="134" width="90" height="72" rx="18" fill="#263663" stroke="#fff" stroke-opacity=".25"/>
+  <circle cx="102" cy="170" r="19" fill="url(#coin)" fill-opacity=".2"/>
+  <path d="M102 156v28M108 161c-2-5-13-6-14 1-1 7 15 3 15 10s-12 8-16 2" stroke="#ffe0a0" stroke-width="2" stroke-linecap="round"/>
+  <rect x="75" y="218" width="116" height="52" rx="15" fill="#263663" stroke="#fff" stroke-opacity=".22"/>
+  <circle cx="97" cy="244" r="9" fill="#5edbc1" fill-opacity=".22"/>
+  <path d="m93 244 3 3 6-7" stroke="#7cf0d1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="113" y="240" width="58" height="6" rx="3" fill="#fff" fill-opacity=".6"/>
+  <circle cx="544" cy="119" r="29" fill="#f3a75d" fill-opacity=".14" stroke="#ffd28c" stroke-opacity=".55" stroke-width="1.5"/>
+  <circle cx="544" cy="119" r="20" fill="url(#coin)" fill-opacity=".28"/>
+  <path d="M544 107v24M550 111c-2-5-12-5-13 1-1 7 13 3 13 10s-11 7-15 2" stroke="#ffe5ae" stroke-width="2" stroke-linecap="round"/>
+</svg>

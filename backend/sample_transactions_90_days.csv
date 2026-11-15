@@ -1,0 +1,96 @@
+date,description,category,type,amount
+2026-08-17,Shopping purchase,Shopping,expense,1550
+2026-08-19,Health purchase,Health,expense,475
+2026-08-20,Food purchase,Food,expense,499
+2026-08-21,Food purchase,Food,expense,357
+2026-08-22,Transport purchase,Transport,expense,248
+2026-08-23,Food purchase,Food,expense,629
+2026-08-24,Entertainment purchase,Entertainment,expense,123
+2026-08-24,Food small purchase,Food,expense,143
+2026-08-25,Food purchase,Food,expense,284
+2026-08-26,Transport purchase,Transport,expense,135
+2026-08-27,Entertainment purchase,Entertainment,expense,176
+2026-08-28,Health purchase,Health,expense,245
+2026-08-28,Transport small purchase,Transport,expense,173
+2026-08-31,Food purchase,Food,expense,582
+2026-09-01,Monthly salary,Salary,income,50000
+2026-09-01,Transport purchase,Transport,expense,176
+2026-09-01,Food small purchase,Food,expense,161
+2026-09-02,Health purchase,Health,expense,1115
+2026-09-02,Food small purchase,Food,expense,347
+2026-09-03,Shopping purchase,Shopping,expense,1389
+2026-09-04,Shopping purchase,Shopping,expense,1533
+2026-09-06,Food purchase,Food,expense,225
+2026-09-06,Food small purchase,Food,expense,299
+2026-09-07,Shopping purchase,Shopping,expense,1634
+2026-09-08,Food purchase,Food,expense,287
+2026-09-09,Entertainment purchase,Entertainment,expense,602
+2026-09-10,Entertainment purchase,Entertainment,expense,351
+2026-09-10,Food small purchase,Food,expense,304
+2026-09-11,Bills purchase,Bills,expense,1289
+2026-09-11,Transport small purchase,Transport,expense,43
+2026-09-13,Food purchase,Food,expense,523
+2026-09-13,Transport small purchase,Transport,expense,67
+2026-09-15,Freelance payment,Other Income,income,4980
+2026-09-15,Food purchase,Food,expense,610
+2026-09-15,Food small purchase,Food,expense,267
+2026-09-16,Entertainment purchase,Entertainment,expense,715
+2026-09-17,Entertainment purchase,Entertainment,expense,588
+2026-09-18,Food purchase,Food,expense,130
+2026-09-19,Bills purchase,Bills,expense,841
+2026-09-20,Entertainment purchase,Entertainment,expense,698
+2026-09-21,Bills purchase,Bills,expense,1963
+2026-09-22,Food purchase,Food,expense,216
+2026-09-23,Bills purchase,Bills,expense,447
+2026-09-24,Food purchase,Food,expense,452
+2026-09-26,Entertainment purchase,Entertainment,expense,306
+2026-09-27,Food purchase,Food,expense,636
+2026-09-28,Bills purchase,Bills,expense,316
+2026-09-30,Entertainment purchase,Entertainment,expense,338
+2026-10-01,Monthly salary,Salary,income,50000
+2026-10-01,Food purchase,Food,expense,162
+2026-10-02,Bills purchase,Bills,expense,904
+2026-10-03,Transport purchase,Transport,expense,90
+2026-10-04,Shopping purchase,Shopping,expense,913
+2026-10-05,Shopping purchase,Shopping,expense,1326
+2026-10-06,Shopping purchase,Shopping,expense,917
+2026-10-07,Food purchase,Food,expense,550
+2026-10-07,Food small purchase,Food,expense,117
+2026-10-08,Bills purchase,Bills,expense,1217
+2026-10-10,Transport purchase,Transport,expense,239
+2026-10-11,Food purchase,Food,expense,564
+2026-10-11,Transport small purchase,Transport,expense,180
+2026-10-12,Bills purchase,Bills,expense,1233
+2026-10-13,Food purchase,Food,expense,353
+2026-10-14,Transport small purchase,Transport,expense,74
+2026-10-15,Freelance payment,Other Income,income,5007
+2026-10-15,Shopping purchase,Shopping,expense,692
+2026-10-16,Bills purchase,Bills,expense,1668
+2026-10-17,Entertainment purchase,Entertainment,expense,368
+2026-10-19,Entertainment purchase,Entertainment,expense,828
+2026-10-20,Food purchase,Food,expense,439
+2026-10-21,Food purchase,Food,expense,299
+2026-10-21,Transport small purchase,Transport,expense,126
+2026-10-22,Transport purchase,Transport,expense,95
+2026-10-23,Transport purchase,Transport,expense,211
+2026-10-24,Food purchase,Food,expense,203
+2026-10-25,Food purchase,Food,expense,277
+2026-10-26,Food purchase,Food,expense,404
+2026-10-27,Transport purchase,Transport,expense,245
+2026-10-28,Food purchase,Food,expense,298
+2026-10-29,Food purchase,Food,expense,340
+2026-10-29,Entertainment small purchase,Entertainment,expense,460
+2026-10-30,Food purchase,Food,expense,160
+2026-10-31,Transport purchase,Transport,expense,43
+2026-11-01,Monthly salary,Salary,income,50000
+2026-11-01,Health purchase,Health,expense,489
+2026-11-03,Bills purchase,Bills,expense,1984
+2026-11-05,Entertainment purchase,Entertainment,expense,350
+2026-11-06,Entertainment purchase,Entertainment,expense,578
+2026-11-07,Shopping purchase,Shopping,expense,414
+2026-11-09,Food purchase,Food,expense,629
+2026-11-10,Shopping purchase,Shopping,expense,1214
+2026-11-11,Food purchase,Food,expense,277
+2026-11-12,Shopping purchase,Shopping,expense,395
+2026-11-13,Food purchase,Food,expense,314
+2026-11-14,Food purchase,Food,expense,626

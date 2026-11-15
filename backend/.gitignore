@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+.env
+
+# Local secrets, databases, and per-user trained ML models
+.env
+*.db
+app/ml/saved_models/*.joblib
